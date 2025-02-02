@@ -7,7 +7,7 @@ const testimonials1 = [
     company: "Enterprise",
     content: "Working with Resk'Que was a game-changer for our business. His strategic insights helped us scale faster than we imagined.",
     rating: 5,
-    image: "/placeholder.svg",
+    image: "/Sarah P..jpg",
   },
   {
     author: "Michael T.",
@@ -15,7 +15,7 @@ const testimonials1 = [
     company: "Tech Company",
     content: "Resk'Que's approach to problem-solving is extraordinary. He helped us streamline our processes and improve team collaboration.",
     rating: 4.5,
-    image: "/placeholder.svg",
+    image: "/Michael T..jpg",
   },
   {
     author: "Lisa H.",
@@ -58,7 +58,7 @@ const testimonials2 = [
     company: "Agency",
     content: "Resk'Que is a master at aligning a team's strengths with business objectives. His guidance unlocked new opportunities for us.",
     rating: 5,
-    image: "/placeholder.svg",
+    image: "/Megan B..jpg",
   },
   {
     author: "Jack F.",
@@ -66,7 +66,7 @@ const testimonials2 = [
     company: "Startup",
     content: "After just a few sessions with Resk'Que, I felt more confident in my decisions and clearer about my goals.",
     rating: 4.5,
-    image: "/placeholder.svg",
+    image: "/Jack F..jpg",
   },
   {
     author: "Nora D.",
@@ -109,7 +109,7 @@ const testimonials3 = [
     company: "Enterprise",
     content: "From team alignment to business strategy, Resk'Que provided practical solutions that worked for us.",
     rating: 5,
-    image: "/placeholder.svg",
+    image: "/Clara V..jpg",
   },
   {
     author: "Brian K.",
@@ -117,7 +117,7 @@ const testimonials3 = [
     company: "Startup",
     content: "I never thought we could achieve such rapid growth, but Resk'Que's actionable roadmap made it possible.",
     rating: 4.5,
-    image: "/placeholder.svg",
+    image: "/Brian K..jpg",
   },
   {
     author: "Sophie M.",
@@ -157,13 +157,6 @@ export const TestimonialSection = () => {
   return (
     <section className="py-20 bg-gradient-to-b from-gray-900 to-black overflow-hidden">
       <div className="container mx-auto px-4">
-        <h2 className="text-4xl font-medium text-white text-center mb-2">
-          See what people are saying
-        </h2>
-        <p className="text-white/60 text-center mb-12">
-          their experience
-        </p>
-        
         <div className="space-y-12">
           {/* First Row - Left to Right */}
           <div className="relative">
