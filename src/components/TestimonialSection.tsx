@@ -23,7 +23,7 @@ const testimonials1 = [
     company: "Corporate",
     content: "Thanks to Resk'Que, we were able to navigate some of our toughest challenges. His guidance gave us clarity and focus.",
     rating: 5,
-    image: "/placeholder.svg",
+    image: "/Lisa H..jpg",
   },
   {
     author: "Tim C.",
@@ -31,7 +31,7 @@ const testimonials1 = [
     company: "Software Company",
     content: "I was skeptical at first, but Resk'Que's expertise and genuine passion for helping businesses really transformed our approach.",
     rating: 4.5,
-    image: "/placeholder.svg",
+    image: "/Tim C..jpg",
   },
   {
     author: "Jessica W.",
@@ -39,7 +39,7 @@ const testimonials1 = [
     company: "Startup",
     content: "Resk'Que's strategies brought the right mix of structure and creativity, and it made all the difference for our company.",
     rating: 5,
-    image: "/placeholder.svg",
+    image: "/Jessica W..jpg",
   },
   {
     author: "Richard A.",
@@ -47,7 +47,7 @@ const testimonials1 = [
     company: "Corporate",
     content: "Our team was struggling to stay motivated, but Resk'Que's leadership reinvigorated us. His advice is both practical and inspiring.",
     rating: 4.5,
-    image: "/placeholder.svg",
+    image: "/Richard A..jpg",
   },
 ];
 
@@ -74,7 +74,7 @@ const testimonials2 = [
     company: "Enterprise",
     content: "Resk'Que helped us reimagine our vision and took our operations to the next level. His insights were invaluable.",
     rating: 5,
-    image: "/placeholder.svg",
+    image: "/Nora D..jpg",
   },
   {
     author: "Ethan M.",
@@ -82,7 +82,7 @@ const testimonials2 = [
     company: "Corporate",
     content: "I had been stuck in a rut, but Resk'Que's coaching gave me the clarity and direction I needed to move forward.",
     rating: 4.5,
-    image: "/placeholder.svg",
+    image: "/Ethan M..jpg",
   },
   {
     author: "Olivia G.",
@@ -90,7 +90,7 @@ const testimonials2 = [
     company: "VC Firm",
     content: "Resk'Que's approach to growth is realistic and actionable. He helped us turn our ideas into measurable success.",
     rating: 5,
-    image: "/placeholder.svg",
+    image: "/Olivia G..jpg",
   },
   {
     author: "Alan R.",
@@ -98,7 +98,7 @@ const testimonials2 = [
     company: "SME",
     content: "Working with Resk'Que was an investment in our future. His strategies improved not only our business but also our mindset.",
     rating: 4.5,
-    image: "/placeholder.svg",
+    image: "/Alan R..jpg",
   },
 ];
 
@@ -125,7 +125,7 @@ const testimonials3 = [
     company: "Tech Company",
     content: "Resk'Que helped me build resilience in the face of challenges, and now I feel confident in taking on bigger opportunities.",
     rating: 5,
-    image: "/placeholder.svg",
+    image: "/Sophie M..jpg",
   },
   {
     author: "Kevin S.",
@@ -133,23 +133,23 @@ const testimonials3 = [
     company: "Agency",
     content: "Thanks to Resk'Que's mentoring, we turned our vision into a concrete plan. His advice has been priceless.",
     rating: 4.5,
-    image: "/placeholder.svg",
-  },
-  {
-    author: "Megan T.",
-    role: "Project Manager",
-    company: "Corporate",
-    content: "Resk'Que has a unique ability to simplify complex problems. His strategies empowered me to lead my team more effectively.",
-    rating: 5,
-    image: "/placeholder.svg",
+    image: "/Kevin S..jpg",
   },
   {
     author: "Greg B.",
     role: "Business Consultant",
     company: "Consulting Firm",
     content: "With Resk'Que's insight and actionable steps, we saw immediate improvements in both our productivity and morale.",
+    rating: 5,
+    image: "/Greg B..jpg",
+  },
+  {
+    author: "Tim C.",
+    role: "Project Manager",
+    company: "Corporate",
+    content: "Resk'Que has a unique ability to simplify complex problems. His strategies empowered me to lead my team more effectively.",
     rating: 4.5,
-    image: "/placeholder.svg",
+    image: "/Tim C..jpg",
   },
 ];
 
