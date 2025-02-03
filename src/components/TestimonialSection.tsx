@@ -7,7 +7,7 @@ const testimonials1 = [
     company: "Enterprise",
     content: "Working with Resk'Que was a game-changer for our business. His strategic insights helped us scale faster than we imagined.",
     rating: 5,
-    image: "/pexels-gabby-k-6237921.jpg",
+    image: "/christopher-campbell-rDEOVtE7vOs-unsplash.jpg",
   },
   {
     author: "Michael T.",
@@ -15,7 +15,7 @@ const testimonials1 = [
     company: "Tech Company",
     content: "Resk'Que's approach to problem-solving is extraordinary. He helped us streamline our processes and improve team collaboration.",
     rating: 4.5,
-    image: "/christopher-campbell-rDEOVtE7vOs-unsplash.jpg",
+    image: "/jeffery-erhunse-Z9lbmEjyYjU-unsplash.jpg",
   },
   {
     author: "Lisa H.",
@@ -23,7 +23,7 @@ const testimonials1 = [
     company: "Corporate",
     content: "Thanks to Resk'Que, we were able to navigate some of our toughest challenges. His guidance gave us clarity and focus.",
     rating: 5,
-    image: "/Brian K..jpg",
+    image: "/pexels-gabby-k-6237921.jpg",
   },
   {
     author: "Tim C.",
@@ -31,7 +31,7 @@ const testimonials1 = [
     company: "Software Company",
     content: "I was skeptical at first, but Resk'Que's expertise and genuine passion for helping businesses really transformed our approach.",
     rating: 4.5,
-    image: "/Clara V..jpg",
+    image: "/pexels-tamra-creatives-agency-19163950-6923296.jpg",
   },
   {
     author: "Jessica W.",
@@ -39,7 +39,7 @@ const testimonials1 = [
     company: "Startup",
     content: "Resk'Que's strategies brought the right mix of structure and creativity, and it made all the difference for our company.",
     rating: 5,
-    image: "/Ethan M..jpg",
+    image: "/christopher-campbell-rDEOVtE7vOs-unsplash.jpg",
   },
   {
     author: "Richard A.",
@@ -47,7 +47,7 @@ const testimonials1 = [
     company: "Corporate",
     content: "Our team was struggling to stay motivated, but Resk'Que's leadership reinvigorated us. His advice is both practical and inspiring.",
     rating: 4.5,
-    image: "/Greg B..jpg",
+    image: "/jeffery-erhunse-Z9lbmEjyYjU-unsplash.jpg",
   },
 ];
 
@@ -58,7 +58,7 @@ const testimonials2 = [
     company: "Agency",
     content: "Resk'Que is a master at aligning a team's strengths with business objectives. His guidance unlocked new opportunities for us.",
     rating: 5,
-    image: "/Jack F..jpg",
+    image: "/pexels-gabby-k-6237921.jpg",
   },
   {
     author: "Jack F.",
@@ -66,7 +66,7 @@ const testimonials2 = [
     company: "Startup",
     content: "After just a few sessions with Resk'Que, I felt more confident in my decisions and clearer about my goals.",
     rating: 4.5,
-    image: "/Jessica W..jpg",
+    image: "/pexels-tamra-creatives-agency-19163950-6923296.jpg",
   },
   {
     author: "Nora D.",
@@ -74,7 +74,7 @@ const testimonials2 = [
     company: "Enterprise",
     content: "Resk'Que helped us reimagine our vision and took our operations to the next level. His insights were invaluable.",
     rating: 5,
-    image: "/Kevin S..jpg",
+    image: "/christopher-campbell-rDEOVtE7vOs-unsplash.jpg",
   },
   {
     author: "Ethan M.",
@@ -82,7 +82,7 @@ const testimonials2 = [
     company: "Corporate",
     content: "I had been stuck in a rut, but Resk'Que's coaching gave me the clarity and direction I needed to move forward.",
     rating: 4.5,
-    image: "/Lisa H..jpg",
+    image: "/jeffery-erhunse-Z9lbmEjyYjU-unsplash.jpg",
   },
   {
     author: "Olivia G.",
@@ -90,7 +90,7 @@ const testimonials2 = [
     company: "VC Firm",
     content: "Resk'Que's approach to growth is realistic and actionable. He helped us turn our ideas into measurable success.",
     rating: 5,
-    image: "/Megan B..jpg",
+    image: "/pexels-gabby-k-6237921.jpg",
   },
   {
     author: "Alan R.",
@@ -98,7 +98,7 @@ const testimonials2 = [
     company: "SME",
     content: "Working with Resk'Que was an investment in our future. His strategies improved not only our business but also our mindset.",
     rating: 4.5,
-    image: "/Michael T..jpg",
+    image: "/pexels-tamra-creatives-agency-19163950-6923296.jpg",
   },
 ];
 
@@ -109,7 +109,7 @@ const testimonials3 = [
     company: "Enterprise",
     content: "From team alignment to business strategy, Resk'Que provided practical solutions that worked for us.",
     rating: 5,
-    image: "/Nora D..jpg",
+    image: "/christopher-campbell-rDEOVtE7vOs-unsplash.jpg",
   },
   {
     author: "Brian K.",
@@ -117,7 +117,7 @@ const testimonials3 = [
     company: "Startup",
     content: "I never thought we could achieve such rapid growth, but Resk'Que's actionable roadmap made it possible.",
     rating: 4.5,
-    image: "/Olivia G..jpg",
+    image: "/jeffery-erhunse-Z9lbmEjyYjU-unsplash.jpg",
   },
   {
     author: "Sophie M.",
@@ -125,7 +125,7 @@ const testimonials3 = [
     company: "Tech Company",
     content: "Resk'Que helped me build resilience in the face of challenges, and now I feel confident in taking on bigger opportunities.",
     rating: 5,
-    image: "/Richard A..jpg",
+    image: "/pexels-gabby-k-6237921.jpg",
   },
   {
     author: "Kevin S.",
@@ -133,7 +133,7 @@ const testimonials3 = [
     company: "Agency",
     content: "Thanks to Resk'Que's mentoring, we turned our vision into a concrete plan. His advice has been priceless.",
     rating: 4.5,
-    image: "/Sophie M..jpg",
+    image: "/pexels-tamra-creatives-agency-19163950-6923296.jpg",
   },
   {
     author: "Greg B.",
@@ -141,7 +141,7 @@ const testimonials3 = [
     company: "Consulting Firm",
     content: "With Resk'Que's insight and actionable steps, we saw immediate improvements in both our productivity and morale.",
     rating: 5,
-    image: "/Tim C..jpg",
+    image: "/christopher-campbell-rDEOVtE7vOs-unsplash.jpg",
   },
   {
     author: "Tim C.",
