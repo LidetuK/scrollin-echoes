@@ -2,7 +2,7 @@ import { Testimonial } from "@/types/testimonial";
 
 export const testimonials1: Testimonial[] = [
   {
-    author: "Sarah Johnson",
+    author: "Sarah J.",
     role: "Marketing Director",
     company: "Enterprise",
     content: "Working with Resk'Que was a game-changer for our business. His strategic insights helped us scale faster than we imagined.",
@@ -10,7 +10,7 @@ export const testimonials1: Testimonial[] = [
     image: "/Brian K..jpg",
   },
   {
-    author: "Michael Thompson",
+    author: "Michael T.",
     role: "CEO",
     company: "Tech Company",
     content: "Resk'Que's approach to problem-solving is extraordinary. He helped us streamline our processes and improve team collaboration.",
@@ -18,7 +18,7 @@ export const testimonials1: Testimonial[] = [
     image: "/Michael T..jpg",
   },
   {
-    author: "Emily Parker",
+    author: "Emily P.",
     role: "Operations Manager",
     company: "Corporate",
     content: "Thanks to Resk'Que, we were able to navigate some of our toughest challenges. His guidance gave us clarity and focus.",
@@ -26,7 +26,7 @@ export const testimonials1: Testimonial[] = [
     image: "/christopher-campbell-rDEOVtE7vOs-unsplash.jpg",
   },
   {
-    author: "David Chen",
+    author: "David C.",
     role: "Product Manager",
     company: "Software Company",
     content: "I was skeptical at first, but Resk'Que's expertise and genuine passion for helping businesses really transformed our approach.",
@@ -37,7 +37,7 @@ export const testimonials1: Testimonial[] = [
 
 export const testimonials2: Testimonial[] = [
   {
-    author: "Rachel Martinez",
+    author: "Rachel M.",
     role: "Creative Director",
     company: "Agency",
     content: "Resk'Que is a master at aligning a team's strengths with business objectives. His guidance unlocked new opportunities for us.",
@@ -45,7 +45,7 @@ export const testimonials2: Testimonial[] = [
     image: "/Jessica W..jpg",
   },
   {
-    author: "James Wilson",
+    author: "James W.",
     role: "Founder",
     company: "Startup",
     content: "After just a few sessions with Resk'Que, I felt more confident in my decisions and clearer about my goals.",
@@ -53,7 +53,7 @@ export const testimonials2: Testimonial[] = [
     image: "/Nora D..jpg",
   },
   {
-    author: "Sofia Rodriguez",
+    author: "Sofia R.",
     role: "COO",
     company: "Enterprise",
     content: "Resk'Que helped us reimagine our vision and took our operations to the next level. His insights were invaluable.",
@@ -61,7 +61,7 @@ export const testimonials2: Testimonial[] = [
     image: "/Sophie M..jpg",
   },
   {
-    author: "Marcus Lee",
+    author: "Marcus L.",
     role: "Sales Manager",
     company: "Corporate",
     content: "I had been stuck in a rut, but Resk'Que's coaching gave me the clarity and direction I needed to move forward.",
@@ -72,7 +72,7 @@ export const testimonials2: Testimonial[] = [
 
 export const testimonials3: Testimonial[] = [
   {
-    author: "Emma Davis",
+    author: "Emma D.",
     role: "Operations Lead",
     company: "Enterprise",
     content: "From team alignment to business strategy, Resk'Que provided practical solutions that worked for us.",
@@ -80,7 +80,7 @@ export const testimonials3: Testimonial[] = [
     image: "/pexels-gabby-k-6237921.jpg",
   },
   {
-    author: "Alexander Wright",
+    author: "Alexander W.",
     role: "CEO",
     company: "Startup",
     content: "I never thought we could achieve such rapid growth, but Resk'Que's actionable roadmap made it possible.",
@@ -88,7 +88,7 @@ export const testimonials3: Testimonial[] = [
     image: "/Jack F..jpg",
   },
   {
-    author: "Isabella Kim",
+    author: "Isabella K.",
     role: "Founder",
     company: "Tech Company",
     content: "Resk'Que helped me build resilience in the face of challenges, and now I feel confident in taking on bigger opportunities.",
@@ -96,7 +96,7 @@ export const testimonials3: Testimonial[] = [
     image: "/Lisa H..jpg",
   },
   {
-    author: "Thomas Anderson",
+    author: "Thomas A.",
     role: "Marketing Manager",
     company: "Agency",
     content: "Thanks to Resk'Que's mentoring, we turned our vision into a concrete plan. His advice has been priceless.",
