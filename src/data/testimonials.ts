@@ -58,7 +58,7 @@ export const testimonials2: Testimonial[] = [
     company: "Enterprise",
     content: "Resk'Que helped us reimagine our vision and took our operations to the next level. His insights were invaluable.",
     rating: 5,
-    image: "/christopher-campbell-rDEOVtE7vOs-unsplash.jpg",
+    image: "/Sophie M..jpg",
   },
   {
     author: "Marcus Lee",
@@ -93,14 +93,14 @@ export const testimonials3: Testimonial[] = [
     company: "Tech Company",
     content: "Resk'Que helped me build resilience in the face of challenges, and now I feel confident in taking on bigger opportunities.",
     rating: 5,
-    image: "/christopher-campbell-rDEOVtE7vOs-unsplash.jpg",
+    image: "/Lisa H..jpg",
   },
   {
     author: "Thomas Anderson",
     role: "Marketing Manager",
     company: "Agency",
     content: "Thanks to Resk'Que's mentoring, we turned our vision into a concrete plan. His advice has been priceless.",
-    rating: 4.5,
+    rating: 5,
     image: "/Richard A..jpg",
   },
 ];
