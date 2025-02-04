@@ -3,7 +3,7 @@ import { TestimonialRow } from "./TestimonialRow";
 
 export const TestimonialSection = () => {
   return (
-    <section className="w-full min-w-full py-20 bg-gradient-to-b from-gray-900 to-black overflow-hidden">
+    <section className="w-full min-w-full py-20 overflow-hidden" style={{ backgroundColor: "#01071A" }}>
       <div className="w-full min-w-full">
         <div className="space-y-12">
           <TestimonialRow testimonials={testimonials1} direction="left" />
