@@ -52,7 +52,7 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
-        star: "#FFD700",
+        star: "#FEA700",
       },
       keyframes: {
         scroll: {
