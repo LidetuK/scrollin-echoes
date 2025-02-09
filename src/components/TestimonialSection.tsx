@@ -12,7 +12,7 @@ export const TestimonialSection = () => {
       style={{ backgroundColor: "#01071A" }}
     >
       <div className="w-full min-w-full">
-        <div className={`space-y-${isMobile ? '32' : '12'}`}>
+        <div className={`space-y-${isMobile ? '8' : '12'}`}>
           <TestimonialRow testimonials={testimonials1} direction="left" />
           <TestimonialRow testimonials={testimonials2} direction="right" />
           <TestimonialRow testimonials={testimonials3} direction="left" speed="slow" />
