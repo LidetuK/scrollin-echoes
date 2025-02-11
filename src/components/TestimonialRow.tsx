@@ -13,13 +13,11 @@ export const TestimonialRow = ({ testimonials, direction, speed = "normal" }: Te
   const isMobile = useIsMobile();
 
   const animationClass = 
-    isMobile 
-      ? "animate-scroll-vertical"
-      : direction === "left" 
-        ? speed === "normal" 
-          ? "animate-scroll" 
-          : "animate-scroll-slow"
-        : "animate-scroll-reverse";
+    direction === "left" 
+      ? speed === "normal" 
+        ? "animate-scroll" 
+        : "animate-scroll-slow"
+      : "animate-scroll-reverse";
 
   return (
     <div className="relative">
@@ -30,8 +28,8 @@ export const TestimonialRow = ({ testimonials, direction, speed = "normal" }: Te
         </>
       )}
       
-      <div className={`flex ${isMobile ? 'flex-col' : ''} gap-6 overflow-hidden group hover:[animation-play-state:paused]`}>
-        <div className={`flex ${isMobile ? 'flex-col' : ''} gap-6 ${animationClass} group-hover:[animation-play-state:paused]`}>
+      <div className="flex gap-6 overflow-hidden group hover:[animation-play-state:paused]">
+        <div className={`flex gap-6 ${animationClass} group-hover:[animation-play-state:paused]`}>
           {testimonials.concat(testimonials).map((testimonial, index) => (
             <TestimonialCard key={`${direction}-${index}`} {...testimonial} />
           ))}
